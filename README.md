@@ -3,6 +3,7 @@
 以 PySide6 撰寫的桌面工具，用來**逐 slice 檢視與修正既有的分割遮罩（mask）**
 並以「整個 patient」為單位輸出修正結果。
 原始 mask 永遠不會被覆寫，所有修正都寫到獨立的 `masks_result/` 資料夾。
+<img width="1312" height="811" alt="image" src="https://github.com/user-attachments/assets/bd3a25c7-ac2a-4768-9cbb-d3cec95a66f5" />
 
 ---
 
@@ -103,6 +104,8 @@ dataset_root/                 ← images 的上一層
 
 ### 4.4 Label 定義
 - 與SPIDER 資料集採相同的標記方式，但要用在其他的Label也OK
+- <img width="221" height="803" alt="image" src="https://github.com/user-attachments/assets/41ee5de0-9cdf-48cc-bf7e-3479f0e0c22d" />
+
 
 | Label | 結構 | Label | 結構 |
 |---|---|---|---|
