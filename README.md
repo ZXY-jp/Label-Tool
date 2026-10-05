@@ -1,0 +1,2 @@
+# Label-Tool
+根據SPIDER的標記規則建立的標記工具，手工繪製MRI逐slice影像並根據patient存檔
